@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "fullName": "Emircan Dalman",
+      "department": "Yazılım & Web Development",
+      "salary": 4000,
+      "id": 1
+    },
+    {
+      "fullName": "Ali Dalman",
+      "department": "Bilişim",
+      "salary": "3200",
+      "id": 2
+    }
+  ]
+}
